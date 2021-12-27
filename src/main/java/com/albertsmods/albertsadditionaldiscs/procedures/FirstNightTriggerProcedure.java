@@ -11,8 +11,6 @@ import java.util.Iterator;
 
 public class FirstNightTriggerProcedure {
 	public static void execute(LevelAccessor world, Entity entity) {
-		if (entity == null)
-			return;
 		if (world.dayTime() == 13000) {
 			if (entity instanceof ServerPlayer _player) {
 				Advancement _adv = _player.server.getAdvancements().getAdvancement(new ResourceLocation("albertsadditionaldiscs:first_night"));
