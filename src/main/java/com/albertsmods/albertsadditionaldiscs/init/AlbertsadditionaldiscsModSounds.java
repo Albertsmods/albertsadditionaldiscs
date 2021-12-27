@@ -20,6 +20,8 @@ public class AlbertsadditionaldiscsModSounds {
 				new SoundEvent(new ResourceLocation("albertsadditionaldiscs", "dunedisc")));
 		REGISTRY.put(new ResourceLocation("albertsadditionaldiscs", "eclipsedisc"),
 				new SoundEvent(new ResourceLocation("albertsadditionaldiscs", "eclipsedisc")));
+		REGISTRY.put(new ResourceLocation("albertsadditionaldiscs", "soardisc"),
+				new SoundEvent(new ResourceLocation("albertsadditionaldiscs", "soardisc")));
 	}
 
 	@SubscribeEvent
