@@ -1,0 +1,32 @@
+{
+  "hopdisc": {
+    "category": "record",
+    "subtitle": "subtitles.hopdisc",
+    "sounds": [
+      {
+        "name": "albertsadditionaldiscs:hopdisc",
+        "stream": true
+      },
+      "dunedisc": {
+        "category": "record",
+        "subtitle": "subtitles.dunedisc",
+        "sounds": [
+          {
+            "name": "albertsadditionaldiscs:dunedisc",
+            "stream": true
+          },
+          "eclipsedisc": {
+            "catagory": "record",
+            "subtitle": "subtitles.eclipsedisc",
+            "sounds": [
+              {
+                "name": "albertsadditionaldiscs:eclipsedisc",
+                "stream": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

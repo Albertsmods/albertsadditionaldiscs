@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="GPL-3.0" #Do not change
+[[mods]]
+modId="albertsadditionaldiscs"
+version="${file.jarVersion}"
+displayName="Alberts Additional Discs"
+logoFile="examplemod.png" #Can change
+credits="Music by Jagdaggar" #Must add "Original mod by Albertsmods" to your version
+description='''
+Adds new copyright free music discs each with unique ways of obtaining.
+'''
+
+[[dependencies.albertsadditionaldiscs]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.albertsadditionaldiscs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"
