@@ -1,0 +1,12 @@
+{
+  "item.albertsadditionaldiscs.soar_disc.sub": "laying Music",
+  "item.albertsadditionaldiscs.hop_disc.sub": "Playing Music",
+
+  "item.albertsadditionaldiscs.soar_disc.desc": "Jagdaggar - soar",
+  "item.albertsadditionaldiscs.hop_disc.desc": "Jagdaggar - hop",
+
+  "item.albertsadditionaldiscs.soar_disc": "Music Disc",
+  "item.albertsadditionaldiscs.hop_disc": "Music Disc",
+
+  "itemGroup.albertsadditionaldiscsModTab": "AAD Discs"
+}

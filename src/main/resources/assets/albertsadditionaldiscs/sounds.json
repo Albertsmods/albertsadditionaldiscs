@@ -1,0 +1,20 @@
+{
+  "item.soar_disc": {
+    "subtitle": "item.soar_disc.sub",
+    "sounds": [
+      {
+        "name": "albertsadditionaldiscs:music/soar_disc",
+        "stream": true
+      }
+    ]
+  },
+  "item.hop_disc": {
+    "subtitle": "item.hop_disc.sub",
+    "sounds": [
+      {
+        "name": "albertsadditionaldiscs:music/hop_disc",
+        "stream": true
+      }
+    ]
+  }
+}
